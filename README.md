@@ -1,5 +1,5 @@
 # Projects
-## Weather website using HTML,CSS,javascript
+## Weather website using HTML,CSS,javaScript
 # You can type the city name in searchbox and get the wether information
 
 # Output
